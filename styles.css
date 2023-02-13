@@ -1,0 +1,60 @@
+body {
+    background-color: #000000;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background: white;
+    display: flex;
+}
+
+.post {
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 45px;
+    width: 470px;
+    justify-content: center;
+}
+
+.icon {
+    margin: 12px -5px 0px 5px;
+}
+.name {
+    font-size: 10px;
+    margin: 0 0px -5px 10px;
+}
+
+.dots {
+    margin: 13px 0 0 357px;
+}
+img {
+    width: 100%;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.trio {
+    display: flex;
+    margin: 0 0 0 5px;
+}
+
+.trio .fa-regular {
+    margin: 0 2px;
+}
+
+.save {
+    margin: 0 5px 0 300px;
+    padding-right: 3px;
+}
+
+.liked p {
+    padding: 5px 10px;
+}
+
+.text p {
+    padding: 5px 10px;
+}
